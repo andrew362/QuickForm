@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 
-$mailToSend = 'andrzej362@gmail.com';
+$mailToSend = 'XXXXXXXX';
 
 if ( $_SERVER['REQUEST_METHOD'] === 'POST' ) {
 	$email      = $_POST['email'];
